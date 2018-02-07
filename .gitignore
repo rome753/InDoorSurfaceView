@@ -33,3 +33,14 @@ proguard/
 .DS_Store
 /build
 /captures
+
+.idea
+/build/
+Sample/build/
+InDoorView/build/
+local.properties
+gradle.properties
+InDoorView/src/test/java/com/karonl/instance/PathUnitTest.java
+/.gitignore.swp
+/gradle.properties
+*.jks
